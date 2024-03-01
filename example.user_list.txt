@@ -1,0 +1,3 @@
+username1|username1@users.noreply.github.com
+username2|musername2@users.noreply.github.com
+user3|email@example.com
